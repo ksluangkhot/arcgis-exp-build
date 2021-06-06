@@ -1,0 +1,19 @@
+{
+  "name": "stream-filter",
+  "type": "widget",
+  "version": "1.4.0",
+  "exbVersion": "1.4.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "Customize datasource-filter to select stream type",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en",
+    "es"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}
